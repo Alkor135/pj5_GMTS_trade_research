@@ -173,3 +173,4 @@ cython_debug/
 *.csv
 RTS_MOEX/GMTS_исследования_времени_торговли.xlsx
 RTS_MOEX/GMTS_даты_торговли.xlsx
+RTS_MOEX/GMTS_прибыль_месяца_15-19.xlsx
